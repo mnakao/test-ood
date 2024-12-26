@@ -1,0 +1,1 @@
+<img src="https://mnakao.net/data/2024/opencomposer.gif">
